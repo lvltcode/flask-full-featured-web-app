@@ -1,6 +1,6 @@
 Flask Full-Featured Web App
 ===
-`May 2019` `lvltcode` `microblog`
+`May 2019` `lvltcode` `flaskblog`
 
 ## Ideas (simple one)
 Build a full-features blog that User can register, sign in, customize their profile (pictures, name, email, change password), post blog with pictures, text, date created etc.
