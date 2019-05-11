@@ -1,8 +1,3 @@
----
-title: 'Flask Full-Featured Web App'
-disqus: lvltcode
----
-
 Flask Full-Featured Web App
 ===
 `May 2019` `lvltcode` `microblog`
